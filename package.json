@@ -14,6 +14,7 @@
     "node": "0.6"
   },
   "scripts": {
+    "start": "coffee app/app.coffee",
     "test": "mocha"
   }
 }
